@@ -42,8 +42,9 @@ section {
     flex-wrap: wrap;
 }
 
+
 .box{
     border: 1px inset #868686;
     width: 3.333%;
-    height: 30.72px;
+    min-height: 30.72px;
 }
